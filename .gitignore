@@ -1,0 +1,6 @@
+# Cartelle
+temp
+
+#File
+*.log
+!debug.log
